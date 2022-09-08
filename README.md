@@ -1,4 +1,4 @@
-# WQI_Index_Prediction
+# WQI_Prediction
 1. Water is one of the most important natural resources for all living organisms on earth. The monitoring of treated wastewater discharge quality is vitally important for the stability and protection of the ecosystem.
 2. On a national, regional, and local level, this is significant as a health and development issue. Water quality has been harmed during the past few years by a number of pollutants. 
 3. As a result, anticipating and modelling water quality have become crucial for reducing water pollution.
